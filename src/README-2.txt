@@ -1,4 +1,4 @@
-Names: Atharv Parashar (B02053053) & Shubham Pant (B02030672)
+Names: Atharv Parashar & Shubham Pant
 
 
 How a user would interact with our program: 
